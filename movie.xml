@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-model href="movie.xsd"?>
+<MOVIEDETAILS>
+    <MOVIE>
+    <TITLE>The six sense</TITLE>
+    <MOVIEID>M876</MOVIEID>
+    <DIRNAME>night shyamalan</DIRNAME>
+    <CAST>Bruce Willis,Halley Joel Osment</CAST>
+    <YEAROFRELEASE>1999</YEAROFRELEASE>
+    </MOVIE>
+</MOVIEDETAILS>
